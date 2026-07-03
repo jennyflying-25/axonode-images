@@ -19,13 +19,13 @@ This repository stores public image assets for Axonode's optical transceiver bus
 - To use an image in a website or document, reference the raw or CDN URL, for example:
 
   ```text
-  https://raw.githubusercontent.com/<your-username>/axonode-images/main/axonode_10g_lr_front.png
+  https://raw.githubusercontent.com/jennyflying-25/axonode-images/main/axonode_10g_lr_front.png
   ```
 
   or via a third‑party CDN such as jsDelivr:
 
   ```text
-  https://cdn.jsdelivr.net/gh/<your-username>/axonode-images@main/axonode_10g_lr_front.png
+  https://cdn.jsdelivr.net/gh/jennyflying-25/axonode-images@main/axonode_10g_lr_front.png
   ```
 
 ## Notes
